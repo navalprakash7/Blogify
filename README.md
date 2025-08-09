@@ -1,11 +1,11 @@
-# Blogify
+# 📝 Blogify
 
 Blogify is an Android blogging app that allows users to create, post, edit, save, and manage blogs seamlessly.  
 It is built using **Kotlin** with **Firebase** for authentication, database, and storage.
 
 ---
 
-## Features
+## ✨ Features
 
 - **Create & Post Blogs** – Add blog title, content, and publish instantly.
 - **Edit Blogs** – Update existing posts anytime.
@@ -22,7 +22,7 @@ It is built using **Kotlin** with **Firebase** for authentication, database, and
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - **Language**: Kotlin
 - **Architecture**: Android MVVM (basic implementation)
