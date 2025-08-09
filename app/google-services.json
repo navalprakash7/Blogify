@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "400886466006",
+    "firebase_url": "https://blogify-e58bf-default-rtdb.firebaseio.com",
+    "project_id": "blogify-e58bf",
+    "storage_bucket": "blogify-e58bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400886466006:android:7b1494b9d873af2ca09077",
+        "android_client_info": {
+          "package_name": "com.example.blogify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400886466006-irs9v2rbt3u9kfrfhrpf5go730ha78bc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blogify",
+            "certificate_hash": "7cc1b74176432462e616f0a596c1ef2091de1596"
+          }
+        },
+        {
+          "client_id": "400886466006-otpk2ppm7sqfc44f2eahih68kfvh3qeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAObnsUYfwKvpRBJez8PFcqRgACwyyQz20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400886466006-otpk2ppm7sqfc44f2eahih68kfvh3qeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
