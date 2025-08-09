@@ -36,3 +36,11 @@ It is built using **Kotlin** with **Firebase** for authentication, database, and
 
 [Download Blogify APK](https://github.com/navalprakash7/Blogify/releases/download/v1.0.0/blogify.apk)
 
+---
+
+## 🎥 Preview Video
+
+[![Watch the video](https://img.youtube.com/vi/jHm7w0H8khk/0.jpg)](https://www.youtube.com/shorts/jHm7w0H8khk)
+
+---
+
