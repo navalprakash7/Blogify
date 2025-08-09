@@ -40,7 +40,7 @@ It is built using **Kotlin** with **Firebase** for authentication, database, and
 
 ## 🎥 Preview Video
 
-[▶ Watch Preview Video](https://github.com/navalprakash7/Blogify/raw/master/blogifyPreviewVideo.mp4)
+[![Watch Preview Video](https://img.youtube.com/vi/7UmZ78JW-Rg/hqdefault.jpg)](https://youtube.com/shorts/7UmZ78JW-Rg?si=h5LOqn54CFJB4OJT)
 
 ---
 
