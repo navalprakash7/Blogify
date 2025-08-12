@@ -61,10 +61,9 @@ It is built using **Kotlin** with **Firebase** for authentication, database, and
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1e7d841f-3b86-4cae-a1ae-ba3809892142" width="200"/>
   <img src="https://github.com/user-attachments/assets/a926e8ce-5e0e-4e8c-a72c-7cc850832edc" width="200"/>
-  <img src="https://github.com/user-attachments/assets/73fcaf24-65a4-4efd-ae05-24f746e40501" width="200"/>
+  <img src="https://github.com/user-attachments/assets/8b45ed62-66fc-4d40-9a6b-eae09822fe08" width="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8b45ed62-66fc-4d40-9a6b-eae09822fe08" width="200"/>
   <img src="https://github.com/user-attachments/assets/e0ee27e0-0066-4e59-91c1-cca6562441ee" width="200"/>
 </p>
